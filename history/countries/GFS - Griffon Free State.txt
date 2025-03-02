@@ -141,6 +141,7 @@ recruit_character = GFS_atlas_steyn
 recruit_character = GFS_eurus_gardiner
 recruit_character = GFS_nikolaus
 recruit_character = GFS_anesu_goldleaf
+recruit_character = GFS_friedrich_steiner
 
 set_rule = {
 	can_generate_female_aces = yes

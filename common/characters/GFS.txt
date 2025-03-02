@@ -73,4 +73,21 @@ characters={
 			desc = GFS_anesu_goldleaf_desc
 		}
 	}
+	GFS_friedrich_steiner = {
+		name = "GFS_friedrich_steiner"
+		portraits = { 
+			army = {
+				large="gfx/leaders/Asia/portrait_griffon_generic_land_8.dds"
+			}
+		}
+		corps_commander = {
+			traits = { griffon_race_trait }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 4
+			desc = GFS_friedrich_steiner_desc
+		}
+	}
 }
