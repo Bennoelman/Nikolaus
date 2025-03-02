@@ -115,6 +115,10 @@ add_ideas = {
 	outdated_industry
 	big_science_base
 	lack_of_scientists2
+	GFS_proud_identity_idea
+	GFS_allsides_idea
+	GFS_underdeveloped_industry_idea
+	GFS_incompetent_administration_idea
 }
 
 set_stability = 0.55
